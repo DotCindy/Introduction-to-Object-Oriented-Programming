@@ -3,7 +3,7 @@ Name:                   Cindy Le
 Email:                  cle15@myseneca.ca
 Date:                   January 23, 2018
 Workshop:               At Home
-Description:            graph.cpp
+Description:            Compiling Modules
 */
 
 #include <iostream>
